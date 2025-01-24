@@ -1,0 +1,10 @@
+[package]
+name = "rsgl"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+gl = "0.14.0"
+
+[dev-dependencies]
+glfw = "0.59.0"
