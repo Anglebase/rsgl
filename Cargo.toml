@@ -2,6 +2,9 @@
 name = "rsgl"
 version = "0.1.0"
 edition = "2021"
+description = "A Rust library for OpenGL"
+repository = "https://github.com/Anglebase/rsgl.git"
+license = "MIT"
 
 [dependencies]
 ctxs = "0.1.1"
