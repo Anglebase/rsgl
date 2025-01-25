@@ -1,13 +1,15 @@
-mod buffer;
-mod program;
-mod shader;
-mod vertex_array;
+pub mod buffer;
+pub mod program;
+pub mod shader;
+pub mod vertex_array;
+pub mod texture;
 
 pub use buffer::*;
 pub use program::*;
 pub use shader::*;
 pub use vertex_array::*;
 pub use ctxs::*;
+pub use texture::*;
 
 /// 定义元编程类型枚举值
 #[macro_export]
