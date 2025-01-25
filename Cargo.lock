@@ -28,9 +28,9 @@ dependencies = [
 
 [[package]]
 name = "ctxs"
-version = "0.1.0"
+version = "0.1.1"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "ee82411ac50143a58d02deae98070e7149a3c0a85e75a49de3eae9240fa16b75"
+checksum = "42e1362cd15150fd1f4987ccfd58fcc0ccaf51d91d525388430cef7535f087e0"
 
 [[package]]
 name = "gl"
